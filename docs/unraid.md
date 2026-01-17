@@ -49,10 +49,10 @@ Eventuell muss wieder nach unten gescrollt werden.
 
 Im nun sichtbaren Editor-Feld:
 
+![compose Editor](../images/compose-editor.png)
+
 - den bestehenden Inhalt inkl. `services:` **vollständig löschen**
-- den kompletten Inhalt von  
-  **`docker-compose.yml` aus diesem Repository** einfügen  
-  *(Link hier einfügen)*
+- den kompletten Inhalt von [dieser compose.yml](../compose.yml) einfügen 
 
 Anschließend mit **„SAVE CHANGES“** bestätigen – der Editor schließt sich automatisch.
 
