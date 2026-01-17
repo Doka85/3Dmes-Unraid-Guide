@@ -82,8 +82,7 @@ Dies betrifft lediglich die Optik und kann später angepasst werden.
 1. Erneut auf das **Zahnrad** klicken  
 2. **„EDIT STACK“** → **„ENV FILE“**
 
-Im Editor-Feld wird der Inhalt der Beispiel-Datei  
-**`.env.example`** eingefügt und angepasst.
+Im Editor-Feld wird der Inhalt der Beispiel-Datei  [example.env](../example.env) eingefügt und angepasst.
 
 ### Wichtige Hinweise zur Konfiguration
 
