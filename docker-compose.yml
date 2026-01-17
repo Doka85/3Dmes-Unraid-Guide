@@ -20,7 +20,7 @@ services:
       retries: 5
 
   3dmes:
-    image: xhbtec/3dmes:beta
+    image: xhbtec/3dmes:latest
     container_name: 3dmes-app
     restart: unless-stopped
     depends_on:
