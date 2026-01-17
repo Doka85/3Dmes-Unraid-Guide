@@ -54,4 +54,5 @@ Diese Anleitung:
 ## Anleitung:
 
 ➡️[Anleitung Unraid](docs/unraid.md) (`docs/unraid.md`)
+➡️[bekannte Fehler](docs/known_issues.md) (`docs/known_issues.md`)
 
