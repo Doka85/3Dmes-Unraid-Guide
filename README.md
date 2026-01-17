@@ -51,12 +51,4 @@ Diese Anleitung:
 
 ---
 
-## Inhalt
-
-- Vorbereitung Unraid
-- Docker Compose auf Unraid
-- `.env` Konfiguration
-- Persistente Volumes
-- Updates
-- Backups
-- Typische Stolperfallen
+[Anleitung Unraid](../docs/unraid.md)
