@@ -52,7 +52,7 @@ Im nun sichtbaren Editor-Feld:
 ![compose Editor](../images/compose-editor.png)
 
 - den bestehenden Inhalt inkl. `services:` **vollständig löschen**
-- den kompletten Inhalt von [dieser compose.yml](../compose.yml) einfügen 
+- den kompletten Inhalt von dieser [compose.yml](../compose.yml) einfügen 
 
 Anschließend mit **„SAVE CHANGES“** bestätigen – der Editor schließt sich automatisch.
 
