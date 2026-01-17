@@ -29,9 +29,8 @@ in die Weiterentwicklung gibt es den **offiziellen 3D-MES Discord**:
 👉 https://discord.gg/eNMg8yMnH6
 
 ℹ️ **Hinweis:**
-- Dieser Discord wird vom 3D-MES-Umfeld / Hersteller betrieben
+- Dieser Discord wird vom 3D-MES Hersteller betrieben
 - Fragen zu **dieser Unraid-Anleitung** bitte **hier im GitHub-Repository** stellen
-- Der Discord ersetzt **keinen offiziellen Support**, kann aber bei allgemeinen Themen hilfreich sein
 
 ---
 
