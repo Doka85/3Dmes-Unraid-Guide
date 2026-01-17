@@ -17,7 +17,7 @@ Ebenfalls muss die **IP-Adresse des Unraid-Servers** bekannt sein.
 Über den Community Appstore **„Apps“** wird das Plugin  
 **Docker Compose Manager** installiert.
 
-![Docker Compose Manager Installation](../images/compose-manager-install.png)
+![Docker Compose Manager Installation](../images/compose-manager.png)
 
 ---
 
