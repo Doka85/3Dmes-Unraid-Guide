@@ -73,7 +73,7 @@ Sollten deine Docker-Einstellungen vom Standard abweichen, müssen diese Pfade e
 Das Fenster **„Edit Stack UI Labels“** kann zunächst mit **„OK“** geschlossen werden.  
 Dies betrifft lediglich die Optik und kann später angepasst werden.
 
-![UI Labels](../images/compose-ui-labels.png)
+![UI Labels](../images/compose-ui-lables.png)
 
 ---
 
