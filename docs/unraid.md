@@ -52,7 +52,7 @@ Im nun sichtbaren Editor-Feld:
 ![compose Editor](../images/compose-editor.png)
 
 - den bestehenden Inhalt inkl. `services:` **vollständig löschen**
-- den kompletten Inhalt von dieser [compose.yml](../compose.yml) einfügen 
+- den kompletten Inhalt von dieser [docker-compose.yml](../docker-compose.yml) einfügen 
 
 Anschließend mit **„SAVE CHANGES“** bestätigen – der Editor schließt sich automatisch.
 
@@ -82,7 +82,7 @@ Dies betrifft lediglich die Optik und kann später angepasst werden.
 1. Erneut auf das **Zahnrad** klicken  
 2. **„EDIT STACK“** → **„ENV FILE“**
 
-Im Editor-Feld wird der Inhalt der Beispiel-Datei  [example.env](../example.env) eingefügt und angepasst.
+Im Editor-Feld wird der Inhalt der Beispiel-Datei  [.env.example](../.env.example) eingefügt und angepasst.
 
 ### Wichtige Hinweise zur Konfiguration
 
