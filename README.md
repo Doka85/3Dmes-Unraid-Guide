@@ -55,7 +55,7 @@ Diese Anleitung:
 
 ➡️[Anleitung Unraid](docs/unraid.md) (`docs/unraid.md`)
 
-➡️[Stack update](docs/update.md) (`docs/known_issues.md`)
+➡️[Stack update](docs/update.md) (`docs/update.md`)
 
 ➡️[bekannte Fehler](docs/known_issues.md) (`docs/known_issues.md`)
 
