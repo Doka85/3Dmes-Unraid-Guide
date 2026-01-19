@@ -42,6 +42,7 @@ services:
       # PrintPortal Konfiguration
       PrintPortal__CertificateStoragePath: /app/cert
       PrintPortal__AutoRenewalCheckIntervalHours: 24
+      
     networks:
       - mesnet
     ports:
@@ -49,6 +50,8 @@ services:
       - "${HTTPS_PORT:-443}:443"
       - "${MQTT_PORT:-1883}:1883"
       - "${MQTTS_PORT:-8883}:8883"
+      
+
     volumes:
       - ${PFAD}/app/uploads:/app/uploads
       - ${PFAD}/app/cert:/app/cert
@@ -71,9 +74,12 @@ services:
       FLASK_ENV: ${FLASK_ENV:-production}
       FLASK_PORT: 5000
       BACKUP_DIRECTORY: /backups
+      
+  
     volumes:
       - ${PFAD}/backup/backups:/backups
-      - ${PFAD}/backup/uploads:/uploads
+      - ${PFAD}/app/uploads:/uploads
+
 
     networks:
       - mesnet
